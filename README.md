@@ -62,5 +62,5 @@ I want to continue to learn more of CSS Grid and flexbox in future to boost my c
 
 ## Author
 
-- Frontend Mentor - [@mercyharbo](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mercyharbo](https://www.frontendmentor.io/profile/mercyharbo)
 - Twitter - [@codewithmercy](https://www.twitter.com/codewithmercy)
